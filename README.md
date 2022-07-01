@@ -1,5 +1,5 @@
 # api-repositorios
-API simples para controle de repositórios em memória, feito para aprendizado de curso NodeJS
+API para controle de repositórios em memória, feito para aprendizado de curso NodeJS
 
 # Utilização
 Para utilziar, instalar o Node no computador, depois executar o seguinte comando dentro da pasta src:
